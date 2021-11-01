@@ -1,5 +1,7 @@
 Most of this repo's code is from https://github.com/mjhea0/flaskr-tdd
 
+The Heroku deployment of this app is available at: https://wicked-beast-14775.herokuapp.com/
+
 # Pros and Cons of TDD
 
 Some of the pros of Test-Driven Development are:
